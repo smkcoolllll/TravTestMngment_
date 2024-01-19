@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net" modified="2024-01-19T04:07:58.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LgHIhtsditK-luD5SsOU" version="22.1.21" type="device">
+  <diagram name="Page-1" id="bvI4AH_eRf7j3HILgVuy">
+    <mxGraphModel dx="1434" dy="1897" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="760" y="270" width="48" height="63.16" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-3" value="" style="shape=mxgraph.cisco.controllers_and_modules.10ge_fcoe;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="257.58000000000004" width="64" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="-80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-9" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Controllers&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;TravelController&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="180" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-10" value="" style="image;html=1;image=img/lib/atlassian/Jira_Service_Desk_Logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="70" width="59" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-12" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;service&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;TravelService&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-10" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-13" value="" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#CCCCFF;shape=mxgraph.archimate3.driver;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="670" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-14" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;service Implementation&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;TravelServiceImpl&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="252" y="790" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="712" y="278.09000000000015" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-15" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.repository_2" vertex="1" parent="1">
+          <mxGeometry x="680" y="130" width="64" height="68.09" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="-90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="704" y="-90" />
+              <mxPoint x="91" y="-90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-16" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;Repository&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PassengerRepository&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;&lt;span style=&quot;font-size: 9.8pt;&quot;&gt;TravelPackageRepository&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ActivityRepository&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="674" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="389" as="sourcePoint" />
+            <mxPoint x="480" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="319.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-17" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_sitewise_asset_model;" vertex="1" parent="1">
+          <mxGeometry x="280.5" y="370" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-19" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;model(entity)&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;Destination&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;Activity&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PassengerActivity&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PassengerType&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;Passenger&lt;/div&gt;&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;TravelPackage&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="475" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-20" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="555" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-21" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;DTO&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;DestinationActivitiesDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;DestinationDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PassengerActivityDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PassengerDetailsDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;PassengerDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;TravelPackageDetailsDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;TravelPackagePassengerDetailsDto&lt;/div&gt;&lt;div style=&quot;background-color: rgb(43, 43, 43); color: rgb(169, 183, 198); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ActivityDto&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="448" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CTtS5U_6qGwIuEoM6RsP-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="495" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-23" value="🚫❌" style="text;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="460" y="210" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTtS5U_6qGwIuEoM6RsP-24" value="&lt;b&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;exceptions&lt;br&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="412" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
